@@ -1,8 +1,8 @@
 # Feito por:
 
-Gabriel Toledo | RM:551654
-João Saborido | RM: 98184
-Matheus Haruo | RM: 97663
+Gabriel Toledo RM:551654 |
+João Saborido RM: 98184 |
+Matheus Haruo RM: 97663 
 
 # Problema:
 Em situações de queda de energia ou ao apagar as luzes de um ambiente, a tela do computador se torna a única fonte de luz. No entanto, o brilho geralmente está em um nível baixo ou intermediário, dificultando a visualização do teclado, do mouse ou do ambiente ao redor. Ajustar o brilho manualmente no escuro pode ser uma tarefa difícil e demorada.
